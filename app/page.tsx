@@ -1,7 +1,14 @@
-export default function HomePage() {
-  return (
-    <main className="flex min-h-screen flex-col items-center justify-between p-24">
-      s
-    </main>
-  );
+import { getServerSession } from 'next-auth';
+import { redirect } from 'next/navigation';
+
+import { authOptions } from './utils/auth';
+
+export default async function Home() {
+  const session = await getServerSession(authOptions);
+
+  if (!session) {
+    return redirect('/login');
+  } else {
+    return redirect('/home');
+  }
 }
