@@ -16,14 +16,14 @@ export default function SeedDatabase() {
           videoSource:
             'https://res.cloudinary.com/dsouibklx/video/upload/v1699471985/vxht66zpfit14wkgpj0a.mp4',
           imageString:
-            'https://image.tmdb.org/t/p/original/r7DuyYJ0N3cD8bRKsR5Ygq2P7oa.jpg',
+            'https://m.media-amazon.com/images/M/MV5BMTI1YjFmN2UtOWZhOC00MjkwLTg2ZjgtNDQ5NDQ3YWNmNGRkXkEyXkFqcGdeQXVyMTAxNzQ1NzI@._V1_FMjpg_UY720_.jpg',
           release: 2023,
           category: 'recent',
           youtubeString: 'https://www.youtube.com/embed/GVPzGBvPrzw',
         },
         {
           imageString:
-            'https://image.tmdb.org/t/p/original/kHlX3oqdD4VGaLpB8O78M25KfdS.jpg',
+            'https://m.media-amazon.com/images/M/MV5BY2NmMWU5OGItNDg4MC00MjcyLTkwOGUtZjgzZDUwYmI4NzljXkEyXkFqcGdeQXVyMzQyMDgzOTU@._V1_FMjpg_UY720_.jpg',
           title: 'A Haunting in Venice',
           age: 12,
           duration: 1.44,
@@ -45,7 +45,7 @@ export default function SeedDatabase() {
           release: 2023,
           videoSource: '',
           imageString:
-            'https://image.tmdb.org/t/p/original/t5zCBSB5xMDKcDqe91qahCOUYVV.jpg',
+            'https://m.media-amazon.com/images/M/MV5BODZhNzk0Y2YtNDY0NS00Y2RlLWFlMjQtYTJmNTE2MTQ2NzBkXkEyXkFqcGdeQXVyMTYzMDE1MTYx._V1_FMjpg_UX668_.jpg',
           category: 'recent',
           youtubeString: 'https://www.youtube.com/embed/0VH9WCFV6XQ',
         },
@@ -56,7 +56,7 @@ export default function SeedDatabase() {
           age: 16,
           duration: 0,
           imageString:
-            'https://image.tmdb.org/t/p/original/dDPwCyZG8arYwMDoQl0sm4xccCE.jpg',
+            'https://m.media-amazon.com/images/M/MV5BMTU1OTdjYTUtMzA2MS00Njg4LWI1NTctMWUzYzNkNmQ5YWY3XkEyXkFqcGdeQXVyMTUwMzM5ODkz._V1_FMjpg_UX675_.jpg',
           overview: `Raymond "Red" Reddington, one of the FBI's most wanted fugitives, surrenders in person at FBI Headquarters in Washington, D.C. He claims that he and the FBI have the same interests: bringing down dangerous criminals and terrorists. In the last two decades, he's made a list of criminals and terrorists that matter the most but the FBI cannot find because it does not know they exist. Reddington calls this "The Blacklist". Reddington will co-operate, but insists that he will speak only to Elizabeth Keen, a rookie FBI profiler`,
           release: 2013,
           videoSource: '',
@@ -69,7 +69,7 @@ export default function SeedDatabase() {
           age: 12,
           duration: 0,
           imageString:
-            'https://image.tmdb.org/t/p/original/or0E36KfzJYZwqXeiCfm1JgepKF.jpg',
+            'https://m.media-amazon.com/images/M/MV5BNmVmMmM5ZmItZDg0OC00NTFiLWIxNzctZjNmYTY5OTU3ZWU3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX680_.jpg',
           overview:
             "While running from a drug deal gone bad, Mike Ross, a brilliant young college-dropout, slips into a job interview with one of New York City's best legal closers, Harvey Specter. Tired of cookie-cutter law school grads, Harvey takes a gamble by hiring Mike on the spot after he recognizes his raw talent and photographic memory.",
           release: 2011,
@@ -83,7 +83,7 @@ export default function SeedDatabase() {
           age: 16,
           duration: 0,
           imageString:
-            'https://image.tmdb.org/t/p/original/900tHlUYUkp7Ol04XFSoAaEIXcT.jpg',
+            'https://m.media-amazon.com/images/M/MV5BYTM2YTcwMDctMmJiOC00YTBhLWFjZTUtNDllMGRjOGE5ZTg5XkEyXkFqcGdeQXVyNjg3MTIwODI@._V1_FMjpg_UX800_.jpg',
           overview:
             'The true story of one of the worst man-made catastrophes in history: the catastrophic nuclear accident at Chernobyl. A tale of the brave men and women who sacrificed to save Europe from unimaginable disaster.',
           release: 2019,
@@ -97,7 +97,7 @@ export default function SeedDatabase() {
           age: 12,
           duration: 1.31,
           imageString:
-            'https://image.tmdb.org/t/p/original/iiXliCeykkzmJ0Eg9RYJ7F2CWSz.jpg',
+            'https://m.media-amazon.com/images/M/MV5BZDViNjQ0ZjQtYTBlMS00MTg2LTk3MDktNzQzMWVhZjY0NDRkXkEyXkFqcGdeQXVyMTYzODc3MzQ3._V1_FMjpg_UY701_.jpg',
           overview:
             'When a mysterious caller puts a bomb under his car seat, Matt Turner begins a high-speed chase across the city to complete a specific series of tasks- all with his kids trapped in the back seat.',
           release: 2023,
@@ -111,7 +111,7 @@ export default function SeedDatabase() {
           age: 12,
           duration: 2.2,
           imageString:
-            'https://image.tmdb.org/t/p/original/nGxUxi3PfXDRm7Vg95VBNgNM8yc.jpg',
+            'https://m.media-amazon.com/images/M/MV5BMzI0NmVkMjEtYmY4MS00ZDMxLTlkZmEtMzU4MDQxYTMzMjU2XkEyXkFqcGdeQXVyMzQ0MzA0NTM@._V1_FMjpg_UY720_.jpg',
           overview:
             'After reuniting with Gwen Stacy, Brooklyn’s full-time, friendly neighborhood Spider-Man is catapulted across the Multiverse, where he encounters the Spider Society, a team of Spider-People charged with protecting the Multiverse’s very existence. But when the heroes clash on how to handle a new threat, Miles finds himself pitted against the other Spiders and must set out on his own to save those he loves most.',
           release: 2023,
@@ -127,7 +127,7 @@ export default function SeedDatabase() {
           age: 0,
           duration: 1.45,
           imageString:
-            'https://image.tmdb.org/t/p/original/askg3SMvhqEl4OL52YuvdtY40Yb.jpg',
+            'https://m.media-amazon.com/images/M/MV5BYjQ5NjM0Y2YtNjZkNC00ZDhkLWJjMWItN2QyNzFkMDE3ZjAxXkEyXkFqcGdeQXVyODIxMzk5NjA@._V1_FMjpg_UY720_.jpg',
           overview:
             "Despite his family’s baffling generations-old ban on music, Miguel dreams of becoming an accomplished musician like his idol, Ernesto de la Cruz. Desperate to prove his talent, Miguel finds himself in the stunning and colorful Land of the Dead following a mysterious chain of events. Along the way, he meets charming trickster Hector, and together, they set off on an extraordinary journey to unlock the real story behind Miguel's family history.",
           videoSource: '',
@@ -141,7 +141,7 @@ export default function SeedDatabase() {
           age: 12,
           duration: 0,
           imageString:
-            'https://image.tmdb.org/t/p/original/cTQYB39EwM01fl9b9KpNUgZfOsT.jpg',
+            'https://m.media-amazon.com/images/M/MV5BM2M4NjM0N2QtMDlmNi00NzNkLWEyYjItOTczMjk1ZjU2NDdiXkEyXkFqcGdeQXVyNzA5NjUyNjM@._V1_FMjpg_UY720_.jpg',
           overview:
             "Adrian Monk was once a rising star with the San Francisco Police Department, legendary for using unconventional means to solve the department's most baffling cases. But after the tragic (and still unsolved) murder of his wife Trudy, he developed an extreme case of obsessive-compulsive disorder. Now working as a private consultant, Monk continues to investigate cases in the most unconventional ways.",
           videoSource: '',
@@ -154,7 +154,7 @@ export default function SeedDatabase() {
           age: 16,
           duration: 0,
           imageString:
-            'https://image.tmdb.org/t/p/original/y4PDksvxM05sNxacoU8xIYITCDA.jpg',
+            'https://m.media-amazon.com/images/M/MV5BNzc0ZmE4NDgtNTdiMS00MDE5LWJjMGUtNDZhNzg0MmRmOTllXkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_FMjpg_UY720_.jpg',
           overview:
             "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Griffin family. Bumbling Peter and long-suffering Lois have three kids. Stewie (a brilliant but sadistic baby bent on killing his mother and taking over the world), Meg (the oldest, and is the most unpopular girl in town) and Chris (the middle kid, he's not very bright but has a passion for movies). The final member of the family is Brian - a talking dog and much more than a pet, he keeps Stewie in check whilst sipping Martinis and sorting through his own life issues.",
           release: 1999,
@@ -166,10 +166,20 @@ export default function SeedDatabase() {
     });
   }
 
+  async function deleteData() {
+    'use server';
+    await prisma.movie.deleteMany({});
+  }
+
   return (
-    <div className="m-5">
+    <div className="m-5 flex gap-x-2">
       <form action={postData}>
-        <Button type="submit">Submit</Button>
+        <Button type="submit">Add</Button>
+      </form>
+      <form action={deleteData}>
+        <Button variant="destructive" type="submit">
+          Delete
+        </Button>
       </form>
     </div>
   );
