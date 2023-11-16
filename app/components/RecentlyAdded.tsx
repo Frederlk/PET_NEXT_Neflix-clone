@@ -12,7 +12,7 @@ async function getData(userId: string) {
       title: true,
       WatchLists: {
         where: {
-          userId: userId,
+          userId,
         },
       },
       imageString: true,

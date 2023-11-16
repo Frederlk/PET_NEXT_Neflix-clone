@@ -15,6 +15,15 @@ import {
 
 import { IUser } from './Navbar';
 
+function getFirstLastNameInitials(name?: string | null) {
+  return name
+    ? name
+        .split(' ')
+        .map((n) => n[0])
+        .join('.')
+    : 'N/A';
+}
+
 export default function UserNav({ user }: { user?: IUser }) {
   const handleSignOut = () => () => signOut();
 
@@ -30,7 +39,7 @@ export default function UserNav({ user }: { user?: IUser }) {
               }
             />
             <AvatarFallback className="rounded-sm">
-              {user?.name || 'Name'}
+              {getFirstLastNameInitials(user?.name)}
             </AvatarFallback>
           </Avatar>
         </Button>
